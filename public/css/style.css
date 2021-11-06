@@ -1,0 +1,8 @@
+/* add doctor view */
+::placeholder{
+    color: white;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: red;
+   }
+/* end */
